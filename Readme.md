@@ -32,13 +32,13 @@ I've been Working on this assigments that has been given by our mentor [Hitesh C
 
 ## Screenshot
 
-![screenshot](./screenshot/1.PNG)
-![screenshot](./screenshot/2.PNG)
-![screenshot](./screenshot/3.PNG)
-![screenshot](./screenshot/4.PNG)
-![screenshot](./screenshot/5.PNG)
-![screenshot](./screenshot/6.PNG)
-![screenshot](./screenshot/7.PNG)
+![screenshot](./screenshot/1.png)
+![screenshot](./screenshot/2.png)
+![screenshot](./screenshot/3.png)
+![screenshot](./screenshot/4.png)
+![screenshot](./screenshot/5.png)
+![screenshot](./screenshot/6.png)
+![screenshot](./screenshot/7.png)
 
 ## Here Is What I'm Working On
 
